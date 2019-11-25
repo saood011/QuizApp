@@ -1,0 +1,62 @@
+{
+  "quiz_questions": [
+    {
+      "id": 1,
+      "instruction_text": "How many continents are there on Planet Earth?",
+      "answer_options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 2,
+      "instruction_text": "What's your favorite number?",
+      "answer_options": ["1", "2", "3", "7"],
+      "answer": "7"
+    },
+    {
+      "id": 3,
+      "instruction_text": "What's the capital of Germany?",
+      "answer_options": ["Berlin", "Munich", "Frankfurt", "Dusseldorf"],
+      "answer": "Berlin"
+    },
+    {
+      "id": 4,
+      "instruction_text": "Who is Habsho?",
+      "answer_options": ["Ayham", "Soheel", "Hamid", "Saood"],
+      "answer": "Ayham"
+    },
+    {
+      "id": 5,
+      "instruction_text": "What's the full form of DCI?",
+      "answer_options": [
+        "Digital Career Institute",
+        "Delhi Career Institute",
+        "Daily Career Institute",
+        "Danger Courier Institute"
+      ],
+      "answer": "Digital Career Institute"
+    },
+    {
+      "id": 6,
+      "instruction_text": "Which of the followings is the reason behind the different seasons to occur?",
+      "answer_options": [
+        "Sun is moving around the eart",
+        "revolution of the earth around the sun on its orbit",
+        "Tilt of Earth’s axis",
+        "All of the above"
+      ],
+      "answer": "revolution of the earth around the sun on its orbit"
+    },
+    {
+      "id": 7,
+      "instruction_text": "What's the last name of Hamid?",
+      "answer_options": ["Nikoo", "Niiko", "Nyko", "None of the above"],
+      "answer": "Nikoo"
+    },
+    {
+      "id": 8,
+      "instruction_text": "What is the official name of FbW7 batch?",
+      "answer_options": ["Anonymous", "Inonymous", "Bogus", "Focus"],
+      "answer": "Anonymous"
+    }
+  ]
+}
