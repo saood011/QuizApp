@@ -13,7 +13,7 @@ export class Name extends Component {
         <form className="form">
           <input
             onChange={this.changeHandler}
-            placeholder="Enter your full name"
+            placeholder="Enter your name"
             className="form-control"
             name="name"
             required
@@ -33,6 +33,11 @@ export class Name extends Component {
             }
             value="Start Quiz"
           />
+          <p>
+            <small className=" text-white font-weight-lighter font-italic blockquote">
+              Password is '1234'
+            </small>
+          </p>
         </form>
       </div>
     );
